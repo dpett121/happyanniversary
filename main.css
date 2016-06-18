@@ -3,6 +3,8 @@ html, body {
     height: 200000px;
     /* white-space: nowrap; */
   margin: 0px;
+  	font-size: .7em;
+
 }
 
 body {
@@ -10,11 +12,6 @@ body {
     background-color: #E3E4FA;
 
 }
-
-.credit {
-	font-size: .7em;
-	text-align: center;
-	}
 
 
 
