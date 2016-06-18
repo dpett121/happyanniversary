@@ -2,8 +2,7 @@
 html, body {
     height: 200000px;
     /* white-space: nowrap; */
-    overflow: hidden;
-  margin: 30px;
+  margin: 0px;
 }
 
 body {
