@@ -3,7 +3,7 @@ html, body {
     height: 200000px;
     max-width:500px;
     /* white-space: nowrap; */
-    /* overflow: hidden; */ 
+    overflow: hidden; 
 
 }
 
@@ -21,16 +21,45 @@ body {
 
 #one {
 	position:absolute;
-	top:4000px;
+	top:195000px;
 }
 
 #two {
 	position:absolute;
-	top:100000px;
+	top:40000px;
 }
 
 #three {
 	position:absolute;
-	top:50000px;
+	top:60000px;
 }
 
+#four {
+	position:absolute;
+	top:80000px;
+}
+
+#five {
+	position:absolute;
+	top:100000px;
+}
+
+#six {
+	position:absolute;
+	top:120000px;
+}
+
+#seven {
+	position:absolute;
+	top:140000px;
+}
+
+#eight {
+	position:absolute;
+	top:160000px;
+}
+
+#nine {
+	position:absolute;
+	top:180000px;
+}
