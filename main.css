@@ -19,6 +19,43 @@ body {
 
 }
 
+.credit {
+	font-size: .7em;
+	text-align: center;
+	}
+
+
+/* Basic div styles */
+
+#container {
+	width: 90%;
+	margin: auto;
+	}
+
+#content {
+	margin-top: 24px;
+	}
+
+
+/* Adaptive layout styles */
+
+.column1 {
+	width: 100%;
+	}
+	
+.column2 {
+	width: 100%;
+	}
+	
+.column3 {
+	width: 100%;
+	}
+
+
+
+
+
+
 #one {
 	position:absolute;
 	top:195000px;
