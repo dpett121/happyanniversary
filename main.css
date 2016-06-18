@@ -21,16 +21,16 @@ body {
 
 #one {
 	position:absolute;
-	top:10%;
+	top:4000px;
 }
 
 #two {
 	position:absolute;
-	top:50%;
+	top:100000px;
 }
 
 #three {
 	position:absolute;
-	top:20%;
+	top:50000px;
 }
 
