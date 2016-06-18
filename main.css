@@ -1,0 +1,37 @@
+
+html, body {
+    height: 10000px;
+    white-space: nowrap;
+
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #FBE2FF;
+
+}
+
+#one {
+	position:fixed;
+	top:7%;
+	left:10%;
+}
+
+#two {
+	position:fixed;
+	top:20%;
+	left:70%;
+}
+
+#three {
+	position:fixed;
+	top:65%;
+	left:35%;
+}
+
