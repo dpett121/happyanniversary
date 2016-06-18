@@ -9,12 +9,12 @@ html, body {
 
 html {
     /* display: table; */
-    /* margin: auto; */
+     margin: auto; 
 }
 
 body {
     /* display: table-cell; */
-    /* vertical-align: middle; */
+    vertical-align: middle;
     background-color: #E3E4FA;
 
 }
