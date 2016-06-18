@@ -49,7 +49,10 @@ body {
 
 
 
-
+#zero {
+	position:absolute;
+	top:0px;
+}
 
 #one {
 	position:absolute;
