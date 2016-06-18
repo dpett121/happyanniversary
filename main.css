@@ -2,13 +2,15 @@
 html, body {
     height: 200000px;
     /* white-space: nowrap; */
+    width: 90%;
+    text-align:center;
     overflow: hidden; 
 
 }
 
 html {
-    /* display: table; */
-     margin: auto; 
+	margin: auto;
+
 }
 
 body {
