@@ -52,16 +52,22 @@ body {
 #zero {
 	position:absolute;
 	top:0px;
+		width: 90%;
+	margin: auto;
 }
 
 #one {
 	position:absolute;
 	top:195000px;
+		width: 90%;
+	margin: auto;
 }
 
 #two {
 	position:absolute;
 	top:40000px;
+		width: 90%;
+	margin: auto;
 }
 
 #three {
