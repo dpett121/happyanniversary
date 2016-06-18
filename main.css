@@ -2,12 +2,12 @@
 html, body {
     height: 200000px;
     /* white-space: nowrap; */
-    width: 90%;
+    width: 1200px;
     text-align:center;
+    vertical-align: center;
     overflow: hidden; 
 
 }
-
 html {
 	margin: auto;
 
@@ -15,7 +15,6 @@ html {
 
 body {
     /* display: table-cell; */
-    vertical-align: middle;
     background-color: #E3E4FA;
 
 }
