@@ -3,7 +3,7 @@ html, body {
     height: 200000px;
     /* white-space: nowrap; */
     overflow: hidden;
-  padding: 30px;
+  padding: fixed, 30px;
 }
 
 body {
