@@ -2,7 +2,7 @@
 html, body {
     height: 200000px;
     /* white-space: nowrap; */
-    width: 1200px;
+    width: 50%;
     text-align:center;
     vertical-align: center;
     overflow: hidden; 
