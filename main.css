@@ -8,13 +8,13 @@ html, body {
 }
 
 html {
-    display: table;
-    margin: auto;
+    /* display: table; */
+    /* margin: auto; */
 }
 
 body {
-    display: table-cell;
-    vertical-align: middle;
+    /* display: table-cell; */
+    /* vertical-align: middle; */
     background-color: #E3E4FA;
 
 }
@@ -22,7 +22,6 @@ body {
 #one {
 	position:absolute;
 	top:7%;
-	left:10%;
 }
 
 #two {
