@@ -18,16 +18,7 @@ body {
 	}
 
 
-/* Basic div styles */
 
-#container {
-	width: 90%;
-	margin:auto;
-	}
-
-#content {
-	margin-top: 24px;
-	}
 
 
 /* Adaptive layout styles */
@@ -50,22 +41,19 @@ body {
 #zero {
 	position:absolute;
 	top:0px;
-		width: 90%;
-	margin: auto;
+
 }
 
 #one {
 	position:absolute;
 	top:195000px;
-		width: 90%;
-	margin: auto;
+
 }
 
 #two {
 	position:absolute;
 	top:40000px;
-		width: 90%;
-	margin: auto;
+
 }
 
 #three {
