@@ -5,12 +5,8 @@ html, body {
     width: 50%;
     text-align:center;
     vertical-align: center;
-    overflow: hidden; 
-
-}
-html {
-	margin: auto;
-
+    overflow: hidden;
+    margin: auto;
 }
 
 body {
