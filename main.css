@@ -2,10 +2,8 @@
 html, body {
     height: 200000px;
     /* white-space: nowrap; */
-    width: 75%;
     overflow: hidden;
-    text-align:center;
-    margin: 0px;
+  padding: 30px;
 }
 
 body {
@@ -24,7 +22,7 @@ body {
 
 #container {
 	width: 90%;
-	margin: auto;
+	margin:auto;
 	}
 
 #content {
